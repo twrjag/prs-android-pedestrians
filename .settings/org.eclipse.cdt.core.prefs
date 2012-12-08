@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.1227367918/NDKROOT/delimiter=;
+environment/project/0.1227367918/NDKROOT/operation=append
+environment/project/0.1227367918/NDKROOT/value=E\:\\android-ndk-r8b
+environment/project/0.1227367918/PATH/delimiter=;
+environment/project/0.1227367918/PATH/operation=replace
+environment/project/0.1227367918/PATH/value=E\:\\android-ndk-r8b
+environment/project/0.1227367918/append=true
+environment/project/0.1227367918/appendContributed=true
